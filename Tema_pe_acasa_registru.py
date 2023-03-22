@@ -69,4 +69,3 @@ print(registru1)
 print(registru2)
 print(registru3)
 
-
