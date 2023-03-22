@@ -121,3 +121,9 @@ print("Nota medie al elevului ", elev4["Nume"], elev4["Prenume"], " la obiectul 
 print("Nota medie al elevului ", elev4["Nume"], elev4["Prenume"], " la obiectul ", elev4["Disciplina2 "], "este " , media_notelor14)
 print("Nota medie al elevului ", elev4["Nume"], elev4["Prenume"], " la obiectul ", elev4["Disciplina3"], "este " , media_notelor15)
 print("Nota medie al elevului ", elev4["Nume"], elev4["Prenume"], " la obiectul ", elev4["Disciplina4"], "este " , media_notelor16)
+
+
+
+
+
+
